@@ -1,10 +1,11 @@
 <script setup>
+import ThreeScene from './components/ThreeScene.vue';
+ 
 </script>
 
 <template>
-  <div>
-  这是car
-  </div>
+  <ThreeScene/>
+ 
 </template>
 
 <style scoped>
