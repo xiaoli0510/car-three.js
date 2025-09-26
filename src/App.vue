@@ -1,24 +1,10 @@
 <script setup>
-import ThreeScene from './components/ThreeScene.vue';
+import CubeScene from './components/CubeScene.vue';
  
 </script>
 
 <template>
-  <ThreeScene/>
+  <CubeScene/>
  
 </template>
 
-<style scoped>
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.vue:hover {
-  filter: drop-shadow(0 0 2em #42b883aa);
-}
-</style>
