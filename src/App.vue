@@ -1,10 +1,10 @@
 <script setup>
-import CarScene from './components/CarScene.vue';
+import MoveScene from './components/MoveScene.vue';
  
 </script>
 
 <template>
-  <CarScene/>
+  <MoveScene/>
  
 </template>
 
